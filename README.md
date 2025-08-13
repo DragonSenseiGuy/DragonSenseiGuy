@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dragonsenseiguy" alt="dragonsenseiguy" /></a> </p>
 
-- 🔭 I’m currently working on [The Sigma Browser](Not out yet)
+- 🔭 I’m currently working on The Sigma Browser(Not out yet)
 
 - 🌱 I’m currently learning **Javascript, C, Java and AI/ML**
 
