@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DragonSenseiGuy</h1>
 <h3 align="center">A Developer in Python.</h3>
-<h3 align="center"><a href=https://dragonsenseiguy.github.io>Check out my website</a></h3>
+<h3 align="center"><a href=https://dragonsensei.is-a.dev>Check out my website</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragonsenseiguy&label=Profile%20views&color=0e75b6&style=flat" alt="dragonsenseiguy" /> </p>
 
