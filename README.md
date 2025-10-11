@@ -93,10 +93,6 @@ hobbies: ["Gaming","Reading", "Swimming"]
 
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Mindful-Developer/DragonSenseiGuy/output/github-contribution-grid-snake-dark.svg)
-
-Credit to @Mindful-Developer for the original README design
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dragonsenseiguy/dragonsenseiguy/output/github-snake-dark.svg" />
@@ -104,3 +100,5 @@ Credit to @Mindful-Developer for the original README design
     <img alt="github-snake" src="https://raw.githubusercontent.com/dragonsenseiguy/dragonsenseiguy/output/github-snake.svg" />
   </picture>
 </p>
+
+###### Credit to @Mindful-Developer for the original README design
