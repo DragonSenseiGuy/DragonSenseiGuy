@@ -93,6 +93,12 @@ hobbies: ["Gaming","Reading", "Swimming"]
 
 </div>
 
+<div align="center">
+
+  [![An image of @dragonsenseiguy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dragonsenseiguy)](https://holopin.io/@dragonsenseiguy)
+  
+</div>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dragonsenseiguy/dragonsenseiguy/output/github-snake-dark.svg" />
