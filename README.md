@@ -99,5 +99,3 @@ hobbies: ["Gaming","Reading", "Swimming"]
     <img alt="github-snake" src="https://raw.githubusercontent.com/dragonsenseiguy/dragonsenseiguy/output/github-snake.svg" />
   </picture>
 </p>
-
-###### Credit to @Mindful-Developer for the original README design
